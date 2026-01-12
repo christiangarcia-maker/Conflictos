@@ -4,11 +4,11 @@ public class Conflictos {
 
 	public static void main(String[] args) {
 
-		String nombre = "Ada";
-		int edad = 18;
-		int dni = 123456789;
+		String nombre = "Christian";
+		int edad = 20;
+		String dni = "2342425B";
 
-		System.out.println("Hola, soy " + nombre);
+		System.out.println("Hola, soy " + nombre + " tengo " + edad + " años y mi DNI es " + dni);
 
 	}
 
